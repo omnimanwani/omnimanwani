@@ -1,5 +1,5 @@
 # 💫 About Me:
-👯 I’m looking to collaborate on MERN and Software Development projects <br>🤝 I’m looking for help with getting my hands on some real life projects<br>🌱 I’m currently learning app development and basic ML.<br>💬 Ask me about my education and certifications<br>⚡ Fun fact : I had a FF about variables but sadly I can’t remember it.
+👯 I’m looking to collaborate on NLP, AI and Software Development projects <br>🤝 I’m looking for help with getting my hands on some real life projects<br>🌱 I’m currently learning app development and basic ML.<br>💬 Ask me about my education and certifications<br>⚡ Fun fact : I had a FF about variables but sadly I can’t remember it.
 
 
 ## 🌐 Socials:
